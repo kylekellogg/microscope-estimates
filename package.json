@@ -1,0 +1,24 @@
+{
+  "name": "microscope-estimates",
+  "version": "0.0.0",
+  "description": "Microscope RPG game mechanics applied to agile software development planning",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-bower-concat": "~0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sqow/microscope-estimates.git"
+  },
+  "author": "Kyle Kellogg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqow/microscope-estimates/issues"
+  },
+  "homepage": "https://github.com/sqow/microscope-estimates"
+}

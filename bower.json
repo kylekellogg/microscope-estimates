@@ -1,0 +1,25 @@
+{
+  "name": "microscope-estimates",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sqow/microscope-estimates",
+  "authors": [
+    "Kyle Kellogg <kyle@kylekellogg.com>"
+  ],
+  "description": "Microscope RPG game mechanics applied to agile software development planning",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs-html": "~3.0.2"
+  }
+}
