@@ -1,20 +1,16 @@
-html, body {
-  margin: 0;
+/**
+* Markdown entry
+*/
+
+.uk-htmleditor {
+  height: 100%;
 }
 
-#sprintHolder {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+.uk-htmleditor-navbar {
+  display: none;
+  visibility: hidden;
 }
 
-.sprint {
-  width: 10px;
-  height: 10px;
-
-  position: absolute;
-
-  background-color: rgb( 80, 80, 80 );
+.uk-htmleditor-content {
+  height: 100%;
 }

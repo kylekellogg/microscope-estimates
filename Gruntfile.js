@@ -6,7 +6,10 @@ module.exports = function( grunt ) {
         mainFiles: {
           'rxjs': '../dist/rx.all.js',
           'rxjs-html': '../dist/rx.dom.js'
-        }
+        },
+        exclude: [
+          'uikit'
+        ]
       }
     }
   } );

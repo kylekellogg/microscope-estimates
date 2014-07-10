@@ -7,9 +7,6 @@
   ],
   "description": "Microscope RPG game mechanics applied to agile software development planning",
   "main": "index.html",
-  "moduleType": [
-    "node"
-  ],
   "license": "",
   "private": true,
   "ignore": [
@@ -20,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "rxjs-html": "~3.0.2"
+    "uikit": "~2.8.0"
   }
 }
